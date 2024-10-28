@@ -1,7 +1,5 @@
 # Algorítimos de ordenação
 
-![image](https://github.com/user-attachments/assets/e83dd78f-9686-4ffd-b4f0-0d3d570aab2a)
-![image](https://github.com/user-attachments/assets/3bae37fe-86a0-4015-bd44-c9a6fabd9dac)
 ![image](https://github.com/user-attachments/assets/8a694785-663d-44c9-8c20-a7f432b8dc27)
 ![image](https://github.com/user-attachments/assets/df2ff53e-d1b0-488c-899f-db76696d264e)
 
